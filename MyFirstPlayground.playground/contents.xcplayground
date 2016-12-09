@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Untitled Page 2'/>
+        <page name='String'/>
+        <page name='Array'/>
+        <page name='Dictionary'/>
+        <page name='BOOL'/>
+        <page name='Set'/>
+        <page name='元组'/>
+        <page name='函数'/>
+        <page name='高阶函数'/>
+        <page name='optional'/>
+        <page name='运算符'/>
+        <page name='闭包'/>
+        <page name='闭包使用'/>
+        <page name='枚举'/>
+        <page name='结构体'/>
+        <page name='类'/>
+        <page name='属性和方法'/>
+        <page name='单例'/>
+        <page name='类的继承'/>
+        <page name='Swift下标基础'/>
+        <page name='Extension扩展'/>
+        <page name='Extension扩展标准库'/>
+    </pages>
+</playground>
