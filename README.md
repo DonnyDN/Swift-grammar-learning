@@ -22,3 +22,6 @@ Swift基础学习，全Playground练习，更新中..
 - Swift下标基础
 - Extension扩展
 - Extension扩展标准库
+- generic泛型
+- protocol协议
+- 协议和构造函数
