@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='Untitled Page 2'/>
         <page name='String'/>
         <page name='Array'/>
         <page name='Dictionary'/>
@@ -23,5 +22,8 @@
         <page name='Swift下标基础'/>
         <page name='Extension扩展'/>
         <page name='Extension扩展标准库'/>
+        <page name='generic泛型'/>
+        <page name='protocol协议'/>
+        <page name='协议和构造函数'/>
     </pages>
 </playground>

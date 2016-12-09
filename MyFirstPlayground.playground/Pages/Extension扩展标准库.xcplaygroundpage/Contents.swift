@@ -42,6 +42,24 @@ for i in stride(from: 2, to: num, by: 2){
 }
 
 
+//关键字typealias 别名
+typealias Length = Double
+
+extension Double{
+    var km: Length {return self * 1000.0}
+    var m : Length {return self}
+    var cm: Length {return self / 100.0}
+    var ft: Length {return self / 3.28084}
+}
+let runningDistance: Length = 3.km
+
+/**
+ UInt8 有的芯片只支持8位计算环境
+ UInt32 / UInt64
+ */
+typealias AudioSample = UInt8
 
 
-		
+
+
+
