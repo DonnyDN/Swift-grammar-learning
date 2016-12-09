@@ -1,7 +1,7 @@
 # Swift--Playground-
 Swift基础学习，更新中..
 |`基础`|
-|-|
+|---|
 |String|
 |Array|
 |Dictionary|
