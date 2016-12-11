@@ -25,5 +25,8 @@
         <page name='generic泛型'/>
         <page name='protocol协议'/>
         <page name='协议和构造函数'/>
+        <page name='面向协议编程初涉'/>
+        <page name='协议与泛型约束'/>
+        <page name='委托代理模式'/>
     </pages>
 </playground>
