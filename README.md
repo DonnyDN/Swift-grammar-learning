@@ -25,3 +25,6 @@ Swift基础学习，全Playground练习，更新中..
 - generic泛型
 - protocol协议
 - 协议和构造函数
+- 面向协议编程初涉
+- 协议与泛型约束
+- 委托代理模式（playGrond中）
