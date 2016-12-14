@@ -1,5 +1,5 @@
-# Swift--Playground-
-Swift基础学习，全Playground练习，更新中..
+# Swift-Playground-
+Swift语法学习，全Playground练习，更新中..
 
 - String
 - Array
@@ -27,4 +27,10 @@ Swift基础学习，全Playground练习，更新中..
 - 协议和构造函数
 - 面向协议编程初涉
 - 协议与泛型约束
-- 委托代理模式（playGrond中）
+- 委托代理模式（Playgrond中）
+- 错误处理 
+- 内存管理 
+- 闭包中的强引用循环  
+- 类型检查
+- 其他
+- Swift3的进化
