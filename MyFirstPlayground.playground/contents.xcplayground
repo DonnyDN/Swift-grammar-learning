@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
     <pages>
         <page name='String'/>
         <page name='Array'/>
@@ -28,5 +28,11 @@
         <page name='面向协议编程初涉'/>
         <page name='协议与泛型约束'/>
         <page name='委托代理模式'/>
+        <page name='错误处理'/>
+        <page name='内存管理'/>
+        <page name='闭包中的强引用循环'/>
+        <page name='类型检查'/>
+        <page name='其他'/>
+        <page name='Swift3的变化'/>
     </pages>
 </playground>
