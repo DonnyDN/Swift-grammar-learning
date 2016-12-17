@@ -33,6 +33,8 @@ var c1:Character = "!"
 //+=一个字符串可以，+=Character不可以
 str11 += "!"
 str11.append(c1)
+str11
+str11.appending("此函数不会改变原字符串，是返回了一个字符串")
 
 //字符串长度
 str11
@@ -68,6 +70,8 @@ string[index1]
 //var subString = string[startIndex...startIndex.advancedBy(4)]
 //swift3.0
 var subString = string[string.startIndex...string.index(string.startIndex, offsetBy: 4)]
+var subString1 = string.substring(with: string.startIndex..<string.index(string.startIndex, offsetBy: 4))
+
 //swift2.2
 //var subString2 = string[endIndex.advancedBy(-5)...endIndex.predecessor()]
 //swift3.0
